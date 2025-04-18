@@ -1,0 +1,15 @@
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\bin\Debug\net6.0\Nested try catch.exe
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\bin\Debug\net6.0\Nested try catch.deps.json
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\bin\Debug\net6.0\Nested try catch.runtimeconfig.json
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\bin\Debug\net6.0\Nested try catch.dll
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\bin\Debug\net6.0\ref\Nested try catch.dll
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\bin\Debug\net6.0\Nested try catch.pdb
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\obj\Debug\net6.0\Nested try catch.csproj.AssemblyReference.cache
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\obj\Debug\net6.0\Nested try catch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\obj\Debug\net6.0\Nested try catch.AssemblyInfoInputs.cache
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\obj\Debug\net6.0\Nested try catch.AssemblyInfo.cs
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\obj\Debug\net6.0\Nested try catch.csproj.CoreCompileInputs.cache
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\obj\Debug\net6.0\Nested try catch.dll
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\obj\Debug\net6.0\ref\Nested try catch.dll
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\obj\Debug\net6.0\Nested try catch.pdb
+C:\Users\DePaul\Desktop\New folder\VS\H.W\Nested try catch\obj\Debug\net6.0\Nested try catch.genruntimeconfig.cache

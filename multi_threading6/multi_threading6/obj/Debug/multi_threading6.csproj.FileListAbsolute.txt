@@ -1,0 +1,16 @@
+C:\Users\Ghada\source\repos\multi_threading6\multi_threading6\bin\Debug\multi_threading6.exe.config
+C:\Users\Ghada\source\repos\multi_threading6\multi_threading6\bin\Debug\multi_threading6.exe
+C:\Users\Ghada\source\repos\multi_threading6\multi_threading6\bin\Debug\multi_threading6.pdb
+C:\Users\Ghada\source\repos\multi_threading6\multi_threading6\obj\Debug\multi_threading6.csproj.AssemblyReference.cache
+C:\Users\Ghada\source\repos\multi_threading6\multi_threading6\obj\Debug\multi_threading6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ghada\source\repos\multi_threading6\multi_threading6\obj\Debug\multi_threading6.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\source\repos\multi_threading6\multi_threading6\obj\Debug\multi_threading6.exe
+C:\Users\Ghada\source\repos\multi_threading6\multi_threading6\obj\Debug\multi_threading6.pdb
+C:\Users\Ghada\Desktop\2023\Hikmaa\advance_programming\advance_programming_studendt\LEC_7\multi_threading6\multi_threading6\bin\Debug\multi_threading6.exe.config
+C:\Users\Ghada\Desktop\2023\Hikmaa\advance_programming\advance_programming_studendt\LEC_7\multi_threading6\multi_threading6\bin\Debug\multi_threading6.exe
+C:\Users\Ghada\Desktop\2023\Hikmaa\advance_programming\advance_programming_studendt\LEC_7\multi_threading6\multi_threading6\bin\Debug\multi_threading6.pdb
+C:\Users\Ghada\Desktop\2023\Hikmaa\advance_programming\advance_programming_studendt\LEC_7\multi_threading6\multi_threading6\obj\Debug\multi_threading6.csproj.AssemblyReference.cache
+C:\Users\Ghada\Desktop\2023\Hikmaa\advance_programming\advance_programming_studendt\LEC_7\multi_threading6\multi_threading6\obj\Debug\multi_threading6.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ghada\Desktop\2023\Hikmaa\advance_programming\advance_programming_studendt\LEC_7\multi_threading6\multi_threading6\obj\Debug\multi_threading6.csproj.CoreCompileInputs.cache
+C:\Users\Ghada\Desktop\2023\Hikmaa\advance_programming\advance_programming_studendt\LEC_7\multi_threading6\multi_threading6\obj\Debug\multi_threading6.exe
+C:\Users\Ghada\Desktop\2023\Hikmaa\advance_programming\advance_programming_studendt\LEC_7\multi_threading6\multi_threading6\obj\Debug\multi_threading6.pdb

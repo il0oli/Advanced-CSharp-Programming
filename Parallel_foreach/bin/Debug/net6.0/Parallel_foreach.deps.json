@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Parallel_foreach/1.0.0": {
+        "runtime": {
+          "Parallel_foreach.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Parallel_foreach/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
